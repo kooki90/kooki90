@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Kusal Barman</h1>
 <h3 align="center">A passionate Java developer from India</h3>
-
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=790b76114b8ytyqbjlojslrlvvjmtzwpterr1oj4k5gmpqeh&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kooki90&label=Profile%20views&color=0e75b6&style=flat" alt="kooki90" /> </p>
-
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=790b76114b8ytyqbjlojslrlvvjmtzwpterr1oj4k5gmpqeh&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kooki90" alt="kooki90" /></a> </p>
 
 - 🔭 I’m currently working on [LightxStudio](https://builtbybit.com/creators/lightxstudios__.497888)
+
+- 👨‍💻 All of my projects are available at [https://builtbybit.com/creators/lightxstudios__.497888](https://builtbybit.com/creators/lightxstudios__.497888)
+
+- 📫 How to reach me **kusalbarman@outlook.com**
+
+- 📄 Know about my experiences [http://coooki.aspirehosting.in/](http://coooki.aspirehosting.in/)
+
+- ⚡ Fun fact **Im Just a chill guy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,3 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kooki90&show_icons=true&locale=en" alt="kooki90" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kooki90&" alt="kooki90" /></p>
